@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>jenkins CI webhook triggers</h2>
+<h2>jenkins CI webhook trigger</h2>
 </body>
 </html>
